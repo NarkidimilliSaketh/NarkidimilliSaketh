@@ -43,7 +43,6 @@
          AI/ML, LangChain, RAG, LangGraph, Prompt Engineering, Pydantic, DSA, OS, System Design
       </p>
       <hr/>
-      <!-- THIS SECTION IS NEW -->
       <h3>🌱 My Gen AI Roadmap</h3>
         <b>Phase I: Foundations</b>
         <ul>
@@ -116,25 +115,23 @@
 ### 📚 My Learning Dashboard
 <sub>I maintain detailed notes, code, and projects for each topic as part of my continuous learning journey. Click a badge to explore.</sub>
 
-<h4><b>🤖 AI & LLM Engineering</b></h4>
+<h4><b>🤖 Phase I: AI Foundations</b></h4>
 <p align="left">
   <a href="[LINK_TO_YOUR_PROMPT_ENGINEERING_FOLDER]"><img src="https://img.shields.io/badge/Prompt_Engineering-4CAF50?style=for-the-badge&logoColor=white" alt="Prompt Engineering"/></a>
   <a href="[LINK_TO_YOUR_LANGCHAIN_FOLDER]"><img src="https://img.shields.io/badge/LangChain-8A2BE2?style=for-the-badge&logoColor=white" alt="LangChain"/></a>
   <a href="[LINK_TO_YOUR_RAG_FOLDER]"><img src="https://img.shields.io/badge/RAG-4A90E2?style=for-the-badge&logoColor=white" alt="RAG"/></a>
   <a href="[LINK_TO_YOUR_AGENTS_FOLDER]"><img src="https://img.shields.io/badge/AI_Agents-008080?style=for-the-badge&logoColor=white" alt="AI Agents"/></a>
-  <a href="[LINK_TO_YOUR_LANGGRAPH_FOLDER]"><img src="https://img.shields.io/badge/LangGraph-32CD32?style=for-the-badge&logoColor=white" alt="LangGraph"/></a>
-  <a href="[LINK_TO_YOUR_FINETUNING_FOLDER]"><img src="https://img.shields.io/badge/Fine_Tuning-D2691E?style=for-the-badge&logoColor=white" alt="Fine-Tuning"/></a>
-  <a href="[LINK_TO_YOUR_VISION_FOLDER]"><img src="https://img.shields.io/badge/Vision_Models-FF4500?style=for-the-badge&logoColor=white" alt="Vision Models"/></a>
-</p>
-
-<h4><b>☁️ Cloud & DevOps</b></h4>
-<p align="left">
-  <a href="[LINK_TO_YOUR_DOCKER_FOLDER]"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
-</p>
-
-<h4><b>🛠️ Core Development Tools</b></h4>
-<p align="left">
-  <a href="[LINK_TO_YOUR_WEBSCRAPING_FOLDER]"><img src="https://img.shields.io/badge/Web_Scraping-F29111?style=for-the-badge&logoColor=white" alt="Web Scraping"/></a>
+  <a href="[LINK_TO_YOUR_WEBSCRAPING_FOLDER]"><img src="https://img.shields.io/badge/AI_Web_Scraping-F29111?style=for-the-badge&logoColor=white" alt="AI Web Scraping"/></a>
   <a href="[LINK_TO_YOUR_PYDANTIC_FOLDER]"><img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logoColor=white" alt="Pydantic"/></a>
   <a href="[LINK_TO_YOUR_N8N_FOLDER]"><img src="https://img.shields.io/badge/n8n-1A8272?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/></a>
+</p>
+
+<h4><b>🚀 Phase II: Advanced AI & Scaling</b></h4>
+<p align="left">
+  <a href="[LINK_TO_YOUR_LANGGRAPH_FOLDER]"><img src="https://img.shields.io/badge/LangGraph-32CD32?style=for-the-badge&logoColor=white" alt="LangGraph"/></a>
+  <a href="[LINK_TO_YOUR_CREWAI_FOLDER]"><img src="https://img.shields.io/badge/CrewAI-007ACC?style=for-the-badge&logoColor=white" alt="CrewAI"/></a>
+  <a href="[LINK_TO_YOUR_MCP_SERVERS_FOLDER]"><img src="https://img.shields.io/badge/MCP_Servers-555555?style=for-the-badge&logoColor=white" alt="MCP Servers"/></a>
+  <a href="[LINK_TO_YOUR_FINETUNING_FOLDER]"><img src="https://img.shields.io/badge/Fine_Tuning-D2691E?style=for-the-badge&logoColor=white" alt="Fine-Tuning"/></a>
+  <a href="[LINK_TO_YOUR_MLOPS_FOLDER]"><img src="https://img.shields.io/badge/MLOps-232F3E?style=for-the-badge&logoColor=white" alt="MLOps"/></a>
+  <a href="[LINK_TO_YOUR_IMAGE_RECOGNITION_FOLDER]"><img src="https://img.shields.io/badge/Image_Recognition-FF4500?style=for-the-badge&logoColor=white" alt="Image Recognition"/></a>
 </p>
