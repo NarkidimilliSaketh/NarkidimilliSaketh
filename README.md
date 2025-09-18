@@ -23,7 +23,7 @@
 <!-- 4. TWO-COLUMN "DASHBOARD" -->
 <table>
   <tr>
-    <!-- LEFT COLUMN: TECH STACK & STATS -->
+    <!-- LEFT COLUMN: TECH STACK & LEARNING ROADMAP -->
     <td valign="top" width="50%">
       <h3>🛠️ My Tech Stack</h3>
       <p>
@@ -43,12 +43,22 @@
          AI/ML, LangChain, RAG, LangGraph, Prompt Engineering, Pydantic, DSA, OS, System Design
       </p>
       <hr/>
-      <h3>📊 My GitHub Stats</h3>
-      <!-- THIS SECTION IS NOW CORRECTED -->
-      <p>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=NarkidimilliSaketh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Saketh's GitHub Stats" />
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarkidimilliSaketh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </p>
+      <!-- THIS SECTION IS NEW -->
+      <h3>🌱 My Gen AI Roadmap</h3>
+        <b>Phase I: Foundations</b>
+        <ul>
+          <li>Prompt Engineering</li>
+          <li>LangChain & RAG</li>
+          <li>AI Agents & AI-Powered Web Scraping</li>
+          <li>Pydantic & N8N Automation</li>
+        </ul>
+        <b>Phase II: Advanced & Scaling</b>
+        <ul>
+          <li>Agentic AI: LangGraph & CrewAI</li>
+          <li>Fine-Tuning: LoRA, QLoRA, PEFT</li>
+          <li>MLOps & Deployment</li>
+          <li>Image Recognition Tools</li>
+        </ul>
     </td>
     <!-- RIGHT COLUMN: HIGHLIGHTS & CERTIFICATIONS -->
     <td valign="top" width="50%">
@@ -103,10 +113,9 @@
 ---
 
 <!-- 6. LEARNING DASHBOARD -->
-### 🌱 My Learning Dashboard
-<sub>I maintain detailed notes, code, and projects for each topic as part of my continuous learning journey.</sub>
+### 📚 My Learning Dashboard
+<sub>I maintain detailed notes, code, and projects for each topic as part of my continuous learning journey. Click a badge to explore.</sub>
 
-<!-- THIS SECTION IS NOW VISIBLE BY DEFAULT -->
 <h4><b>🤖 AI & LLM Engineering</b></h4>
 <p align="left">
   <a href="[LINK_TO_YOUR_PROMPT_ENGINEERING_FOLDER]"><img src="https://img.shields.io/badge/Prompt_Engineering-4CAF50?style=for-the-badge&logoColor=white" alt="Prompt Engineering"/></a>
@@ -121,8 +130,6 @@
 <h4><b>☁️ Cloud & DevOps</b></h4>
 <p align="left">
   <a href="[LINK_TO_YOUR_DOCKER_FOLDER]"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
-  <a href="[LINK_TO_YOUR_KUBERNETES_FOLDER]"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
-  <a href="[LINK_TO_YOUR_MLOPS_FOLDER]"><img src="https://img.shields.io/badge/MLOps-232F3E?style=for-the-badge&logoColor=white" alt="MLOps"/></a>
 </p>
 
 <h4><b>🛠️ Core Development Tools</b></h4>
