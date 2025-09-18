@@ -14,10 +14,10 @@
 
 <!-- 3. SOCIAL & PORTFOLIO LINKS -->
 <p align="center">
-  <a href="[YOUR_LINKEDIN_URL]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/saketh-narkidimilli-5950a8274/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://portfolio-tau-bice-dtyto4v8ej.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:sakethnarkidimilli1234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[YOUR_LEETCODE_URL]"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://leetcode.com/u/Narkidimilli_Saketh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 ---
@@ -81,7 +81,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="[LINK_TO_SENTINEL_STORE_REPO]">Sentinel Store - AI Decentralized Storage</a></h4>
+      <h4><a href="https://github.com/NarkidimilliSaketh/SentinelStore.git">Sentinel Store - AI Decentralized Storage</a></h4>
       <sub>A decentralized, fault-tolerant file-sharing platform using a custom DHT and Shamir's Secret Sharing.</sub>
       <br><br>
       <p>
@@ -107,11 +107,10 @@
 
 <!-- 6. LEARNING DASHBOARD -->
 ### 🌱 My Learning Dashboard
-<sub>I maintain detailed notes, code, and projects for each topic in my <a href="[LINK_TO_YOUR_LEARNING_REPO]">Digital Garden</a>. Click a badge to explore.</sub>
+<sub>I maintain detailed notes, code, and projects for each topic . where as it my learning procedure.</sub>
 
 <details>
   <summary><b>🤖 AI & LLM Engineering</b></summary>
-  <p align="left">
     <a href="[LINK_TO_YOUR_PROMPT_ENGINEERING_FOLDER]"><img src="https://img.shields.io/badge/Prompt_Engineering-4CAF50?style=for-the-badge&logoColor=white" alt="Prompt Engineering"/></a>
     <a href="[LINK_TO_YOUR_LANGCHAIN_FOLDER]"><img src="https://img.shields.io/badge/LangChain-8A2BE2?style=for-the-badge&logoColor=white" alt="LangChain"/></a>
     <a href="[LINK_TO_YOUR_RAG_FOLDER]"><img src="https://img.shields.io/badge/RAG-4A90E2?style=for-the-badge&logoColor=white" alt="RAG"/></a>
@@ -119,7 +118,6 @@
     <a href="[LINK_TO_YOUR_LANGGRAPH_FOLDER]"><img src="https://img.shields.io/badge/LangGraph-32CD32?style=for-the-badge&logoColor=white" alt="LangGraph"/></a>
     <a href="[LINK_TO_YOUR_FINETUNING_FOLDER]"><img src="https://img.shields.io/badge/Fine_Tuning-D2691E?style=for-the-badge&logoColor=white" alt="Fine-Tuning"/></a>
     <a href="[LINK_TO_YOUR_VISION_FOLDER]"><img src="https://img.shields.io/badge/Vision_Models-FF4500?style=for-the-badge&logoColor=white" alt="Vision Models"/></a>
-  </p>
 </details>
 
 <details>
