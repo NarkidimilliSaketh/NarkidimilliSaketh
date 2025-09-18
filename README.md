@@ -1,7 +1,5 @@
 <!-- 1. HEADER BANNER -->
 <p align="center">
-  <!-- Create a custom banner on canva.com! For now, here's a placeholder. -->
-  <!-- Upload your banner to your repo and replace the link below. -->
   <img src="https://user-images.githubusercontent.com/34342551/221925374-18502204-a0a3-4c3c-8139-8a6f8736a593.gif" alt="Coding Banner" width="800"/>
 </p>
 
@@ -46,10 +44,10 @@
       </p>
       <hr/>
       <h3>📊 My GitHub Stats</h3>
+      <!-- THIS SECTION IS NOW CORRECTED -->
       <p>
-        <!-- Replace [YOUR_GITHUB_USERNAME] with your GitHub username -->
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Saketh's GitHub Stats" />
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=NarkidimilliSaketh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Saketh's GitHub Stats" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarkidimilliSaketh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
       </p>
     </td>
     <!-- RIGHT COLUMN: HIGHLIGHTS & CERTIFICATIONS -->
@@ -81,7 +79,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/NarkidimilliSaketh/SentinelStore.git">Sentinel Store - AI Decentralized Storage</a></h4>
+      <h4><a href="https://github.com/NarkidimilliSaketh/SentinelStore">Sentinel Store - AI Decentralized Storage</a></h4>
       <sub>A decentralized, fault-tolerant file-sharing platform using a custom DHT and Shamir's Secret Sharing.</sub>
       <br><br>
       <p>
@@ -95,7 +93,6 @@
       <sub>A dynamic IQ-based quiz web app with adaptive difficulty and real-time session tracking.</sub>
       <br><br>
       <p>
-        <!-- Confirm the tech stack and update if needed -->
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
       </p>
@@ -107,33 +104,30 @@
 
 <!-- 6. LEARNING DASHBOARD -->
 ### 🌱 My Learning Dashboard
-<sub>I maintain detailed notes, code, and projects for each topic . where as it my learning procedure.</sub>
+<sub>I maintain detailed notes, code, and projects for each topic as part of my continuous learning journey.</sub>
 
-<details>
-  <summary><b>🤖 AI & LLM Engineering</b></summary>
-    <a href="[LINK_TO_YOUR_PROMPT_ENGINEERING_FOLDER]"><img src="https://img.shields.io/badge/Prompt_Engineering-4CAF50?style=for-the-badge&logoColor=white" alt="Prompt Engineering"/></a>
-    <a href="[LINK_TO_YOUR_LANGCHAIN_FOLDER]"><img src="https://img.shields.io/badge/LangChain-8A2BE2?style=for-the-badge&logoColor=white" alt="LangChain"/></a>
-    <a href="[LINK_TO_YOUR_RAG_FOLDER]"><img src="https://img.shields.io/badge/RAG-4A90E2?style=for-the-badge&logoColor=white" alt="RAG"/></a>
-    <a href="[LINK_TO_YOUR_AGENTS_FOLDER]"><img src="https://img.shields.io/badge/AI_Agents-008080?style=for-the-badge&logoColor=white" alt="AI Agents"/></a>
-    <a href="[LINK_TO_YOUR_LANGGRAPH_FOLDER]"><img src="https://img.shields.io/badge/LangGraph-32CD32?style=for-the-badge&logoColor=white" alt="LangGraph"/></a>
-    <a href="[LINK_TO_YOUR_FINETUNING_FOLDER]"><img src="https://img.shields.io/badge/Fine_Tuning-D2691E?style=for-the-badge&logoColor=white" alt="Fine-Tuning"/></a>
-    <a href="[LINK_TO_YOUR_VISION_FOLDER]"><img src="https://img.shields.io/badge/Vision_Models-FF4500?style=for-the-badge&logoColor=white" alt="Vision Models"/></a>
-</details>
+<!-- THIS SECTION IS NOW VISIBLE BY DEFAULT -->
+<h4><b>🤖 AI & LLM Engineering</b></h4>
+<p align="left">
+  <a href="[LINK_TO_YOUR_PROMPT_ENGINEERING_FOLDER]"><img src="https://img.shields.io/badge/Prompt_Engineering-4CAF50?style=for-the-badge&logoColor=white" alt="Prompt Engineering"/></a>
+  <a href="[LINK_TO_YOUR_LANGCHAIN_FOLDER]"><img src="https://img.shields.io/badge/LangChain-8A2BE2?style=for-the-badge&logoColor=white" alt="LangChain"/></a>
+  <a href="[LINK_TO_YOUR_RAG_FOLDER]"><img src="https://img.shields.io/badge/RAG-4A90E2?style=for-the-badge&logoColor=white" alt="RAG"/></a>
+  <a href="[LINK_TO_YOUR_AGENTS_FOLDER]"><img src="https://img.shields.io/badge/AI_Agents-008080?style=for-the-badge&logoColor=white" alt="AI Agents"/></a>
+  <a href="[LINK_TO_YOUR_LANGGRAPH_FOLDER]"><img src="https://img.shields.io/badge/LangGraph-32CD32?style=for-the-badge&logoColor=white" alt="LangGraph"/></a>
+  <a href="[LINK_TO_YOUR_FINETUNING_FOLDER]"><img src="https://img.shields.io/badge/Fine_Tuning-D2691E?style=for-the-badge&logoColor=white" alt="Fine-Tuning"/></a>
+  <a href="[LINK_TO_YOUR_VISION_FOLDER]"><img src="https://img.shields.io/badge/Vision_Models-FF4500?style=for-the-badge&logoColor=white" alt="Vision Models"/></a>
+</p>
 
-<details>
-  <summary><b>☁️ Cloud & DevOps</b></summary>
-  <p align="left">
-    <a href="[LINK_TO_YOUR_DOCKER_FOLDER]"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
-    <a href="[LINK_TO_YOUR_KUBERNETES_FOLDER]"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
-    <a href="[LINK_TO_YOUR_MLOPS_FOLDER]"><img src="https://img.shields.io/badge/MLOps-232F3E?style=for-the-badge&logoColor=white" alt="MLOps"/></a>
-  </p>
-</details>
+<h4><b>☁️ Cloud & DevOps</b></h4>
+<p align="left">
+  <a href="[LINK_TO_YOUR_DOCKER_FOLDER]"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+  <a href="[LINK_TO_YOUR_KUBERNETES_FOLDER]"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
+  <a href="[LINK_TO_YOUR_MLOPS_FOLDER]"><img src="https://img.shields.io/badge/MLOps-232F3E?style=for-the-badge&logoColor=white" alt="MLOps"/></a>
+</p>
 
-<details>
-  <summary><b>🛠️ Core Development Tools</b></summary>
-  <p align="left">
-    <a href="[LINK_TO_YOUR_WEBSCRAPING_FOLDER]"><img src="https://img.shields.io/badge/Web_Scraping-F29111?style=for-the-badge&logoColor=white" alt="Web Scraping"/></a>
-    <a href="[LINK_TO_YOUR_PYDANTIC_FOLDER]"><img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logoColor=white" alt="Pydantic"/></a>
-    <a href="[LINK_TO_YOUR_N8N_FOLDER]"><img src="https://img.shields.io/badge/n8n-1A8272?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/></a>
-  </p>
-</details>
+<h4><b>🛠️ Core Development Tools</b></h4>
+<p align="left">
+  <a href="[LINK_TO_YOUR_WEBSCRAPING_FOLDER]"><img src="https://img.shields.io/badge/Web_Scraping-F29111?style=for-the-badge&logoColor=white" alt="Web Scraping"/></a>
+  <a href="[LINK_TO_YOUR_PYDANTIC_FOLDER]"><img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logoColor=white" alt="Pydantic"/></a>
+  <a href="[LINK_TO_YOUR_N8N_FOLDER]"><img src="https://img.shields.io/badge/n8n-1A8272?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/></a>
+</p>
