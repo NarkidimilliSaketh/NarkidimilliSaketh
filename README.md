@@ -82,32 +82,7 @@
 ---
 
 <!-- 5. FEATURED PROJECTS -->
-### ✨ My Featured Projects
-<sub>Click on any project title to visit its repository for a detailed README.</sub>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/NarkidimilliSaketh/SentinelStore">Sentinel Store - AI Decentralized Storage</a></h4>
-      <sub>A decentralized, fault-tolerant file-sharing platform using a custom DHT and Shamir's Secret Sharing.</sub>
-      <br><br>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Distributed_Systems-000000?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Cryptography-007396?style=for-the-badge" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="[LINK_TO_IQIGNITE_REPO]">IqIgnite - Quiz Platform</a></h4>
-      <sub>A dynamic IQ-based quiz web app with adaptive difficulty and real-time session tracking.</sub>
-      <br><br>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -117,21 +92,21 @@
 
 <h4><b>🤖 Phase I: AI Foundations</b></h4>
 <p align="left">
-  <a href="[LINK_TO_YOUR_PROMPT_ENGINEERING_FOLDER]"><img src="https://img.shields.io/badge/Prompt_Engineering-4CAF50?style=for-the-badge&logoColor=white" alt="Prompt Engineering"/></a>
-  <a href="[LINK_TO_YOUR_LANGCHAIN_FOLDER]"><img src="https://img.shields.io/badge/LangChain-8A2BE2?style=for-the-badge&logoColor=white" alt="LangChain"/></a>
-  <a href="[LINK_TO_YOUR_RAG_FOLDER]"><img src="https://img.shields.io/badge/RAG-4A90E2?style=for-the-badge&logoColor=white" alt="RAG"/></a>
-  <a href="[LINK_TO_YOUR_AGENTS_FOLDER]"><img src="https://img.shields.io/badge/AI_Agents-008080?style=for-the-badge&logoColor=white" alt="AI Agents"/></a>
-  <a href="[LINK_TO_YOUR_WEBSCRAPING_FOLDER]"><img src="https://img.shields.io/badge/AI_Web_Scraping-F29111?style=for-the-badge&logoColor=white" alt="AI Web Scraping"/></a>
-  <a href="[LINK_TO_YOUR_PYDANTIC_FOLDER]"><img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logoColor=white" alt="Pydantic"/></a>
-  <a href="[LINK_TO_YOUR_N8N_FOLDER]"><img src="https://img.shields.io/badge/n8n-1A8272?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/></a>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-4CAF50?style=for-the-badge&logoColor=white" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/LangChain-8A2BE2?style=for-the-badge&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/RAG-4A90E2?style=for-the-badge&logoColor=white" alt="RAG"/>
+  <img src="https://img.shields.io/badge/AI_Agents-008080?style=for-the-badge&logoColor=white" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/AI_Web_Scraping-F29111?style=for-the-badge&logoColor=white" alt="AI Web Scraping"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logoColor=white" alt="Pydantic"/>
+  <img src="https://img.shields.io/badge/n8n-1A8272?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
 </p>
 
 <h4><b>🚀 Phase II: Advanced AI & Scaling</b></h4>
 <p align="left">
-  <a href="[LINK_TO_YOUR_LANGGRAPH_FOLDER]"><img src="https://img.shields.io/badge/LangGraph-32CD32?style=for-the-badge&logoColor=white" alt="LangGraph"/></a>
-  <a href="[LINK_TO_YOUR_CREWAI_FOLDER]"><img src="https://img.shields.io/badge/CrewAI-007ACC?style=for-the-badge&logoColor=white" alt="CrewAI"/></a>
-  <a href="[LINK_TO_YOUR_MCP_SERVERS_FOLDER]"><img src="https://img.shields.io/badge/MCP_Servers-555555?style=for-the-badge&logoColor=white" alt="MCP Servers"/></a>
-  <a href="[LINK_TO_YOUR_FINETUNING_FOLDER]"><img src="https://img.shields.io/badge/Fine_Tuning-D2691E?style=for-the-badge&logoColor=white" alt="Fine-Tuning"/></a>
-  <a href="[LINK_TO_YOUR_MLOPS_FOLDER]"><img src="https://img.shields.io/badge/MLOps-232F3E?style=for-the-badge&logoColor=white" alt="MLOps"/></a>
-  <a href="[LINK_TO_YOUR_IMAGE_RECOGNITION_FOLDER]"><img src="https://img.shields.io/badge/Image_Recognition-FF4500?style=for-the-badge&logoColor=white" alt="Image Recognition"/></a>
+  <img src="https://img.shields.io/badge/LangGraph-32CD32?style=for-the-badge&logoColor=white" alt="LangGraph"/>
+ <img src="https://img.shields.io/badge/CrewAI-007ACC?style=for-the-badge&logoColor=white" alt="CrewAI"/>
+  <img src="https://img.shields.io/badge/MCP_Servers-555555?style=for-the-badge&logoColor=white" alt="MCP Servers"/>
+  <img src="https://img.shields.io/badge/Fine_Tuning-D2691E?style=for-the-badge&logoColor=white" alt="Fine-Tuning"/>
+  <img src="https://img.shields.io/badge/MLOps-232F3E?style=for-the-badge&logoColor=white" alt="MLOps"/>
+  <img src="https://img.shields.io/badge/Image_Recognition-FF4500?style=for-the-badge&logoColor=white" alt="Image Recognition"/>
 </p>
